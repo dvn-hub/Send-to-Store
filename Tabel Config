@@ -113,14 +113,14 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = false,
+        ["Auto Enchant"] = true,
         ["Roll Enchant"] = true,
         ["Evolved Roll Enchant"] = false,
         ["Farm Until Enchant"] = true,
         ["Enchant List"] = {
             "Cursed I",
         },
-        ["Second Enchant"] = false,
+        ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
             "Ancient Lochness Monster",
             "Thin Armor Shark",
@@ -143,7 +143,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Scare",
         },
         ["Second Enchant List"] = {
-            "Cursed I",
+            "Mutation Hunter II",
         },
         ["Minimum Rod"] = "Ghostfinn Rod",
     },
